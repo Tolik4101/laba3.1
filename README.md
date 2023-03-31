@@ -8,16 +8,23 @@
 
 Шаг 1
 
+Клонируем файл с гитхаба
+
 <img width="785" alt="Снимок экрана 2023-03-27 в 19 12 14" src="https://user-images.githubusercontent.com/102604371/228526090-b6d2572f-6ffb-4e1c-aca9-5211460fb7f0.png">
 
 Шаг 2
+
+Прописываем CMakeLists
 
 <img width="773" alt="Снимок экрана 2023-03-27 в 19 25 02" src="https://user-images.githubusercontent.com/102604371/228526215-88d61e51-ca79-4612-a853-8cfa22017528.png">
 
 Шаг 3
 
+Билдим файл
 
 <img width="762" alt="Снимок экрана 2023-03-27 в 19 28 00" src="https://user-images.githubusercontent.com/102604371/228526312-4ed429a8-fd98-44a4-80dd-15d6052325c3.png">
+
+
 <img width="767" alt="Снимок экрана 2023-03-27 в 19 29 26" src="https://user-images.githubusercontent.com/102604371/228526322-4d141ef7-a971-4111-813a-3257eb54fa00.png">
 
 
@@ -31,16 +38,18 @@
 *formatter_ex*, которая в свою очередь использует библиотеку *formatter*.
 
 Шаг 1
+
+Прописываем CMakeLists для formatter_ex и связываем его с formatter
+
 <img width="767" alt="Снимок экрана 2023-03-27 в 19 47 49" src="https://user-images.githubusercontent.com/102604371/228526408-7f99d387-32ee-4c6c-9c19-1e7b8fd7c213.png">
 
+
+
 Шаг 2
+
+Билдим
+
 <img width="758" alt="Снимок экрана 2023-03-27 в 19 49 56" src="https://user-images.githubusercontent.com/102604371/228526556-44dd0808-f141-47f5-aeee-cb140803392f.png">
-
-
-
-
-
-
 
 
 
@@ -53,6 +62,8 @@
 * *solver*, приложение которое испольует статические библиотеки *formatter_ex* и *solver_lib*.
 
 Шаг 1
+
+Прописываем CMAkeLists для solver
 
 <img width="777" alt="Снимок экрана 2023-03-27 в 20 11 36" src="https://user-images.githubusercontent.com/102604371/228526735-bdf97345-3668-4135-bacd-116c86f8798d.png">
 
