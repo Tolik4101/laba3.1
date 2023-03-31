@@ -69,28 +69,38 @@
 
 Шаг 2
 
+Подключаем и связываем библиотеки
+
 <img width="756" alt="Снимок экрана 2023-03-27 в 20 20 20" src="https://user-images.githubusercontent.com/102604371/228526807-4b88d3f4-3250-40f7-817e-83db7fa30b48.png">
 
 Шаг 3 
+
+Добавляем субкаталоги к сборке
+
 <img width="766" alt="Снимок экрана 2023-03-27 в 20 33 45" src="https://user-images.githubusercontent.com/102604371/228526871-2a56766a-9ea0-4d72-8b7e-ff02674c1cdd.png">
 
 Шаг 4 
+
+Билдим
+
 <img width="757" alt="Снимок экрана 2023-03-27 в 20 39 00" src="https://user-images.githubusercontent.com/102604371/228526936-b73918c3-a2c4-4f59-becb-2cbb6630ae7a.png">
 
 Шаг 5
+
+Получаем результат
 
 <img width="765" alt="Снимок экрана 2023-03-27 в 20 39 53" src="https://user-images.githubusercontent.com/102604371/228527064-7147a9eb-cec5-4459-81cf-580b5c820714.png">
 
 Шаг 6
 
+Билдим
+
 <img width="755" alt="Снимок экрана 2023-03-27 в 20 41 56" src="https://user-images.githubusercontent.com/102604371/228527167-5beeeeb6-38b1-4b98-8b87-baa52d2da715.png">
+
 
 Шаг 7
 
-<img width="755" alt="Снимок экрана 2023-03-27 в 20 41 56" src="https://user-images.githubusercontent.com/102604371/228527219-f199ff23-86f4-45fa-acda-413d63c326ac.png">
-
-
-Шаг 8
+Получаем результат
 
 <img width="764" alt="Снимок экрана 2023-03-27 в 20 43 01" src="https://user-images.githubusercontent.com/102604371/228527268-b7af0154-85ad-4402-87f7-76dce74def36.png">
 
